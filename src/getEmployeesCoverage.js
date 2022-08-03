@@ -1,5 +1,6 @@
 const data = require('../data/zoo_data');
 
+// obtive ajuda do Matheus Diógenes, ele me ajudou a criar uma linha de raciocínio para desenvolver a lógica e finalizar o exercício.
 const achaColaborador = (object) => {
   let parcialResult;
   if (!object) {
